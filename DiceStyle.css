@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    background-color:darkslategray;
+}
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    font-family: 'Sansita Swashed', cursive;
+    color: greenyellow;
+    font-size: 8rem;
+    margin-top: 30px;    
+    text-shadow: 5px 0 black;
+}
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+  
+img {
+    width: 80%;
+}
+
+footer{
+margin-top: 5%;
+color: #EEEEEE;
+text-align: center;
+font-family: 'Indie Flower', cursive;
+}
